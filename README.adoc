@@ -1,0 +1,16 @@
+# maestro-player-lib
+
+Library for Maestro player
+
+Install on local repo:
+
+ mvn package shade:shade
+
+Maven dependancy
+
+
+        <dependency>
+            <groupId>com.maestro</groupId>
+            <artifactId>player-lib</artifactId>
+            <version>1.0</version>
+        </dependency>
