@@ -4,9 +4,9 @@ Library for Maestro player
 
 Install on local repo:
 
- mvn package shade:shade
+ mvn clean install
 
-Maven dependancy
+Maven dependency
 
 
         <dependency>
