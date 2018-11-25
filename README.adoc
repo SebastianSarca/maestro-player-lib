@@ -6,7 +6,7 @@ Install on local repo:
 
  mvn package shade:shade
 
-Import dependancy
+Maven dependancy
 
 
         <dependency>
